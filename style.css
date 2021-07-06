@@ -33,14 +33,15 @@ p{
 
 .half-width{
     width: 50%;
-    padding: 10px; ;
+    padding: 10px; 
 }
 .half-width img{
     width: 70%;
     padding: 3%;
-    
-    
 }
+
+
+
 h1{
     color:rgb(110, 108, 108);
 }
@@ -52,3 +53,50 @@ h2{
     background-repeat: no-repeat;
 
 }
+.text-position{
+    text-align: center;
+}
+.recipie-text{
+    color: black;
+}
+.box{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   
+
+  
+    margin: 80px;
+  border-radius: 10%;
+}
+.sec3-half-width{
+    
+    width: 50%;
+    padding: 50px; 
+}
+
+.sec3-half-width img{
+    width: 350px;
+    
+}
+.sec3-background{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+.ul{
+    list-style:none;
+  }
+.li{
+    margin: 15px 0;
+    
+  }
+ .anchor{
+    text-decoration:none;
+    padding: 5px 10px;
+    background: #1155AA;
+    color:white;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+
