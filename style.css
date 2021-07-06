@@ -22,17 +22,24 @@ p{
 }
 .background-section1{
     background-image: url(images/shapes/Group\ 8450.png);
+    background-position: left;
+    
+    
+    background-size: 65%; 
     background-repeat: no-repeat;
-    background-position: right;
 }
+
+
 
 .half-width{
     width: 50%;
     padding: 10px; ;
 }
 .half-width img{
-    width: 80%;
-    padding-top: 10px;
+    width: 70%;
+    padding: 3%;
+    
+    
 }
 h1{
     color:rgb(110, 108, 108);
@@ -41,7 +48,7 @@ h2{
     color:rgb(110, 108, 108);
 }
 .background-section2{
-    background-image: url(images/shapes/Group\ 8446.png);
+    background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 
 }
