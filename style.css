@@ -1,0 +1,47 @@
+body{
+    font-family: 'Bona Nova', serif;
+    text-align: justify;
+}
+.color-orange{
+    color: orange;
+}
+p{
+    font-size: 30px;
+}
+.button-design{
+    text-decoration: none;
+    color: white;
+    background-image:linear-gradient(tomato,yellow) ;
+    border-radius: 40%;
+    size: 40px;
+    font-size: 200%;
+}
+.display{
+    display: flex;
+    margin: 2%;
+}
+.background-section1{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.half-width{
+    width: 50%;
+    padding: 10px; ;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 10px;
+}
+h1{
+    color:rgb(110, 108, 108);
+}
+h2{
+    color:rgb(110, 108, 108);
+}
+.background-section2{
+    background-image: url(images/shapes/Group\ 8446.png);
+    background-repeat: no-repeat;
+
+}
